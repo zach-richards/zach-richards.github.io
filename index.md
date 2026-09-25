@@ -1,5 +1,30 @@
-## About
+Computer Science student at Boise State University.
 
-I'm a Computer Science student interested in programming, software development, and building projects.
+## Projects
 
-[View my GitHub](https://github.com/zach-richards)
+### HumanOS
+Privacy-first desktop software built with C and Linux.
+
+[GitHub →](https://github.com/zach-richards/human-os)
+
+### Other Projects
+
+More projects coming soon.
+
+## Skills
+
+- C
+- C++
+- Python
+- Rust
+- Git
+- Linux
+
+## Education
+
+**Boise State University**  
+B.S. Computer Science — Expected 2028
+
+## Links
+
+- [GitHub](https://github.com/zach-richards)
