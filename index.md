@@ -1,5 +1,3 @@
-# Zach Richards
-
 Computer Science student at Boise State University.
 
 ## Projects
