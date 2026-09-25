@@ -1,3 +1,5 @@
-Computer Science student at Boise State University.
+## About
 
-This is my website.
+I'm a Computer Science student interested in programming, software development, and building projects.
+
+[View my GitHub](https://github.com/zach-richards)
